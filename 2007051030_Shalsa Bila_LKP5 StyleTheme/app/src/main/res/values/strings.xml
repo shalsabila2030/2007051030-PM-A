@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="harga">Rp. 4.000.000</string>
+    <string name="kelinci">Kelinci Himalaya</string>
+    <string name="deskripsi">Kelinci ini juga sering disebut kelinci cina atau kelinci rusia. Warnanya dominan putih dengan warna gelap di sekitar hidung, telinga, ekor, dan kaki. Karena sulit dibudidaya, kelinci Himalaya dijual cukup mahal di pasaran.</string>
+    <string name="tipe">Tipe</string>
+    <string name="himalaya">Himalaya</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="betina">Betina</string>
+    <string name="umur">Umur</string>
+    <string name="bulan">5 Bulan</string>
+    <string name="ciri_khas">Ciri Khas</string>
+    <string name="desk">Kelinci Himalaya biasanya hanya mampu melahirkan 2 hingga 6 ekor saja. Harganya yang mahal juga sepadan dengan warna matanya yang unik, yaitu berwarna merah atau pink. Tidak heran jika kelinci ini termasuk salah satu jenis kelinci hias yang banyak digemari.</string>
+    <string name="owner">Owner</string>
+    <string name="name">Shalsa Bila</string>
+    <string name="buy">Buy</string>
+</resources>
