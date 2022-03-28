@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp">
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <de.hdodenhof.circleimageview.CircleImageView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/img_item_photo"
+    android:layout_width="55dp"
+    android:layout_height="55dp"
+    android:layout_centerVertical="true"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+        app:civ_border_width="1dp"
+        app:civ_border_color="#000000"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_toEndOf="@id/img_item_photo">
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv_item_name"
+    android:text="Name"
+    android:textStyle="bold"
+    android:textSize="16sp"
+    android:layout_marginBottom="8dp"/>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_call"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ic_cart"
+            android:text="Cart" />
+    <Button
+    android:id="@+id/btn_vcall"
+    android:drawableRight="@drawable/ic_chat"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/Widget.AppCompat.Button.Colored"
+    android:text="Chat"
+    android:layout_weight="1"/>
+    </LinearLayout>
+    </LinearLayout>
+    </RelativeLayout>
+    </androidx.cardview.widget.CardView>
