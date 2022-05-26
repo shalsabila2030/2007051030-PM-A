@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rumus Fisika Dasar</string>
+    <string name="massa">Massa</string>
+    <string name="result">Hasil</string>
+    <string name="calculate_ep">Hitung Energi Potensial</string>
+    <string name="calculate_em">Hitung Energi Mekanik</string>
+    <string name="calculate_ek">Hitung Energi Kinetik</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="percepatan">Percepatan</string>
+    <string name="kecepatan">Kecepatan</string>
+    <string name="save">Simpan</string>
+</resources>
