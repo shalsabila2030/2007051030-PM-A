@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileStorage</string>
+    <string name="file_clear">clear</string>
+    <string name="file_open">open</string>
+    <string name="file_save">save</string>
+    <string name="title">Title</string>
+</resources>
