@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyUnitTest</string>
+    <string name="result">Hasil</string>
+    <string name="calculate_volume">Vol.</string>
+    <string name="calculate_surface_area">L.Tabung</string>
+    <string name="calculate_circumference">L.Selimut</string>
+    <string name="height">Tinggi</string>
+    <string name="length">Radius</string>
+    <string name="save">Simpan</string>
+</resources>
